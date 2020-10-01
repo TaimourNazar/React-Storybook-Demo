@@ -1,0 +1,9 @@
+.btn-inc{
+    padding:10px 25px;
+    background-color: seagreen;
+}
+
+.btn-dec{
+    padding:10px 25px;
+    background-color: rgb(211, 81, 81);
+}
